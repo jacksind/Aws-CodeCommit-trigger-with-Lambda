@@ -4,7 +4,6 @@ A simple lambda function that gets triggerred in response to an AWS CodeCommit r
 
 ![Fig : Serverless AWS CodeCommit Repository Event Notifier](https://raw.githubusercontent.com/miztiik/serverless-code-commit-repo-event-notifier/master/images/serverless-code-commit-repo-event-notifier.png)
 
-#### Follow this article in [Youtube](https://www.youtube.com/watch?v=5UC8adwht4k&list=PLxzKY3wu0_FKuCD3X6Uc_XjCKXA5-zmIW&index=5)
 
 1. ## Pre-Requisities
 
